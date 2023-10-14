@@ -1,0 +1,12 @@
+- CLAHE
+- AHE
+- NPK Probe with high intensity UV
+- Orocos RTT
+- Vulcanexus
+- rosbridge_suite
+- What are web sockets
+- frameworks for App development
+- motor offset/drift
+- PixHawk
+- non linear mapping
+
